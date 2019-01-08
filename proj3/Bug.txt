@@ -1,0 +1,3 @@
+1. My code is passing the integration tests but when I run it against the staff it indicates that there is an error in my graph implementation. Tests for make01 and make04 are returning the error vertex not from Graph.  
+2. To remedy the error I've been putting print statements in the code the GraphObj.java file trying to see when incorrect vertex is being added and it shows that checkMyVertex is being called on a vertex of value 0 which is causing it to error. 
+3. I would appreciate if you could help me identify where this error is coming from. Thank you in advance for your help

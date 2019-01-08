@@ -1,0 +1,3 @@
+1. I have been trying to get the trivial output to print out. I run the main file given the argument of the trivial input. This is currently in the Main program arguments as I am committing them.
+2. To remedy the error I've been using the debugger and I wrote a util test for the case of the translation from Y to Z as shown in the walkthrough videos. The output I revieve is "IFBEA AMTAZ /n HELLO WORND" My code seemed correct but it's not printing the correct output. It seems like it's translating the entire word correctly except the second to last characters in each word. 
+3. Thank you in advance for your help

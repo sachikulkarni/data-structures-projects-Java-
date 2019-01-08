@@ -1,0 +1,16 @@
+L place1 1 1
+L place2 1 3
+L place3 3 1
+L place4 3 3
+L place5 5 2
+L place6 3 2
+L place7 5 1
+
+R place1 r1 2 WE place4
+R place4 r1 2 WE place7
+R place7 r6 1 SN place5
+R place1 r2 2 SN place2
+R place2 r3 2 WE place3
+R place3 r7 1 NS place6
+R place6 r7 1 NS place4
+R place6 r4 2 WE place5

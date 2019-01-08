@@ -1,0 +1,3 @@
+1. My code is passing all of the trip tests with my graph package except the last one (trip08). This one is showing a CPU time limit exceeded error. 
+2. To remedy the error I tried to change my graphObj implementation to make successors constant time and I tried adding only the source instead of all the vertices to the fringe in shortest Paths to reduce the runtime. However, the error persists. 
+3. I would appreciate if you could help me identify where this error is coming from. I have already been to office hours twice and I am still unsure how to fix this. Thank you in advance for your help.
